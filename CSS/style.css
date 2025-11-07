@@ -413,7 +413,6 @@ body {
   justify-content: center;
   gap: 24px;
   margin-bottom: 95px;
-  flex-wrap: wrap;
 }
 .article-card {
   position: relative;
